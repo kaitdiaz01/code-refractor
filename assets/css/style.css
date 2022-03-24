@@ -87,11 +87,12 @@ aside {
     background-color: #2589bd;
 }
 /* Combined benefit-lead, benefit-brand, and benefit-cost */
+
 .benefit-lead,
-.benefit-brand
+.benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
-    color: #fffff
+    color: #ffffff
 }
 
 /* .benefit-brand {
@@ -110,8 +111,10 @@ aside {
 } */
 
 /* Combined benefit brand and cost since they have the same style */
+
 .benefit-brand h3,
-.benefit-cost h3 {
+.benefit-cost h3,
+.benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
