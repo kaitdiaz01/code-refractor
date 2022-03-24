@@ -143,10 +143,10 @@ aside {
 } */
 
 /* combined all three classes below since they are the same */
-.search-engine-optimization,
+/* .search-engine-optimization,
 .online-reputation-management,
-.social-media-marketing
- {
+.social-media-marketing */
+ section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -173,9 +173,7 @@ aside {
     color: #ffffff;
 } */
 
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img 
+section img
  {
     max-height: 200px;
 }
