@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* For all .header I changed it to only header since i chnaged the div tag to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,8 +49,8 @@ a {
 p {
     font-size: 16px;
 }
-
-.hero {
+/* changed to figure tag  */
+figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -173,17 +173,20 @@ p {
     color: #ffffff;
 } */
 
-.search-engine-optimization img {
+.search-engine-optimization img,
+.online-reputation-management img,
+.social-media-marketing img 
+ {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
 .search-engine-optimization h2 {
     margin-bottom: 20px;
