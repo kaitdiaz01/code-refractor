@@ -96,22 +96,6 @@ article {
     color: #ffffff
 }
 
-/* .benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
-/* .benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-} */
-
-/* .benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
-
-/* Combined benefit brand and cost since they have the same style */
 /* 
 .benefit-brand h3,
 .benefit-cost h3,
@@ -120,11 +104,6 @@ article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/* .benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-} */
 
 /* combined benefit lead, brand, and cost */
 /* .benefit-lead img, 
@@ -135,18 +114,6 @@ article img {
     margin: 10px auto;
     max-width: 150px;
 }
-
-/* .benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-} */
 
 /* combined all three classes below since they are the same */
 /* .search-engine-optimization,
@@ -161,23 +128,6 @@ article img {
     color: #ffffff;
 }
 
-/* .online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-} */
 
 section img
  {
