@@ -88,9 +88,10 @@ aside {
 }
 /* Combined benefit-lead, benefit-brand, and benefit-cost */
 
-.benefit-lead,
+/* .benefit-lead,
 .benefit-brand,
-.benefit-cost {
+.benefit-cost changed to article */
+article {
     margin-bottom: 32px;
     color: #ffffff
 }
@@ -111,10 +112,11 @@ aside {
 } */
 
 /* Combined benefit brand and cost since they have the same style */
-
+/* 
 .benefit-brand h3,
 .benefit-cost h3,
-.benefit-lead h3 {
+.benefit-lead h3  */
+article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -125,10 +127,10 @@ aside {
 } */
 
 /* combined benefit lead, brand, and cost */
-.benefit-lead img, 
+/* .benefit-lead img, 
 .benefit-brand img,
-.benefit-cost img
- {
+.benefit-cost img */
+article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
